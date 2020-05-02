@@ -113,6 +113,7 @@ YouTube Channels
 * [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
 * [Adrian Crenshaw](https://www.youtube.com/user/irongeek)
 * [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+* [Hacksplained](https://www.youtube.com/c/hacksplained)
 
 Sharpening Your Skills
 --
